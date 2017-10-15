@@ -1,2 +1,2 @@
 # Tableau
-Tableau Dashboard
+Tableau Training Reports, visualizations & Dashboard
